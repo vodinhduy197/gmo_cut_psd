@@ -422,7 +422,6 @@ body {
     color: #ffffff;
     font-family: 'Poppins', sans-serif;
     font-size: 1.5vw;
-    /* font-weight: bold; */
     margin-bottom: 1vw;
 }
 #contact .float-left{
@@ -642,7 +641,6 @@ body {
 }
 #client-partner {
     margin-top: 2vw;
-    /* margin-bottom: 1vw; */
 }
 #client-partner img {
     width: 100%;
