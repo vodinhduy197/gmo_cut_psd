@@ -401,8 +401,10 @@ body {
     margin: unset;
     padding: unset;
 }
-#link ul li::before {
+#link ul li {
     font-family: "Font Awesome 5 Free";
+}
+#link ul li::before {
     content: "\f054";
     font-size: 0.7vw;
     font-weight: bold;
