@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    font-family: "Font Awesome 5 Free";
 }
 #banner{
     background-image: url("/image/banner.png");
@@ -400,9 +401,6 @@ body {
     width: 48%;
     margin: unset;
     padding: unset;
-}
-#link ul li {
-    font-family: "Font Awesome 5 Free";
 }
 #link ul li::before {
     content: "\f054";
