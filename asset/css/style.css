@@ -23,7 +23,7 @@ body {
     width: 100%;
 }
 
-#social ul li i{
+#social ul li em{
     font-size: 1vw;
 }
 #cross-line {
@@ -43,7 +43,7 @@ body {
     width: 100%;
     margin-bottom: 0;
 }
-#watch-video i, #watch-video span {
+#watch-video em, #watch-video span {
     font-size: 1.3vw;
 }
 #discover {
@@ -212,7 +212,7 @@ body {
     position: absolute;
     z-index: 300;
 }
-.carousel-control-product .carousel-control-item-product i {
+.carousel-control-product .carousel-control-item-product em {
     font-size: 1vw;
     /* font-weight: 300; */
 }
@@ -432,7 +432,7 @@ body {
 #contact .float-right{
     width: 55%;
 }
-#contact ul li i {
+#contact ul li em {
     color: #ff5617;
     font-size: 0.7vw;
     margin-right: 0.7vw;
@@ -511,10 +511,10 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 #feature .line {
+    margin: 4vw 0;
     border-left: 0.15vw solid #000000;
     height: 5.5vw;
     margin-left: 50%;
-    margin: 4vw 0;
 }
 #feature #field img{
     width: 3vw;
@@ -574,7 +574,7 @@ body {
     top: 12%;
     left: 7%;
 }
-#passion #passion-video .control-video button i{
+#passion #passion-video .control-video button em{
     font-size: 1vw;
 }
 #passion #passion-video .control-video span {
@@ -601,10 +601,10 @@ body {
     margin-top: 1vw;
 }
 #client .line {
+    margin: 4vw 0;
     border-left: 0.15vw solid #000000;
     height: 5.5vw;
     margin-left: 50%;
-    margin: 4vw 0;
 }
 #client #client-thank-card {
     font-size: 1.7vw;
